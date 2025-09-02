@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi, I'm Tarannum 👋
 
 🚀 **DevOps | Cloud | AI Enthusiast**  
-🌱 Currently working on **CIS App (ART - Accenture)** and learning **AI-powered Cloud Automation**  
+🌱 Currently learning **AI-powered Cloud Automation**  
 ☁️ Skilled in **Azure, AWS, Kubernetes, Terraform, Jenkins**  
 🤖 Exploring **AI/ML for smarter DevOps workflows**  
 📚 Sharing my projects & experiments here  
